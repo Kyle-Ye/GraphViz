@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.4.2] - 2024-02-20
+
+### Fixed
+
+- Fix Xcode 16 build issue about `Node.ID` availability issue
+  Kyle-Ye/GraphViz#1 by @Kyle.
+
 ## [0.4.1] - 2021-05-03
 
 ### Added
@@ -129,7 +136,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 Initial release.
 
-[unreleased]: https://github.com/SwiftDocOrg/GraphViz/compare/0.4.1...main
+[unreleased]: https://github.com/Kyle-Ye/GraphViz/compare/0.4.2...main
+[0.4.2]: https://github.com/Kyle-Ye/GraphViz/releases/tag/0.4.2
 [0.4.1]: https://github.com/SwiftDocOrg/GraphViz/releases/tag/0.4.1
 [0.4.0]: https://github.com/SwiftDocOrg/GraphViz/releases/tag/0.4.0
 [0.3.0]: https://github.com/SwiftDocOrg/GraphViz/releases/tag/0.3.0
